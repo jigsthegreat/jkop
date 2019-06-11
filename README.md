@@ -1,4 +1,4 @@
-Jkop - A universal software development frameworkz
+Jkop - A universal software development frameworkww
 =================================================
 
 Jkop is a comprehensive application development framework,
